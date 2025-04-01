@@ -1,1 +1,0 @@
-Component for reset button to restart the game.

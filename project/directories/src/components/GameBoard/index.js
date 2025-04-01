@@ -1,1 +1,0 @@
-Main component for the Tic Tac Toe game board.

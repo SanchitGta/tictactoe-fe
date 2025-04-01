@@ -1,1 +1,0 @@
-Custom hook to manage game state logic (turns, win detection).

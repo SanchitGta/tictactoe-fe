@@ -1,1 +1,0 @@
-Component for each cell of the game board.

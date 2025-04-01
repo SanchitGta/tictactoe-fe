@@ -1,1 +1,0 @@
-Test for the custom hook managing game logic.

@@ -1,1 +1,0 @@
-Component to show whose turn it is.

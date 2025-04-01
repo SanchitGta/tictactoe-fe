@@ -1,1 +1,0 @@
-Component to display the current status of the game (winner or draw).
